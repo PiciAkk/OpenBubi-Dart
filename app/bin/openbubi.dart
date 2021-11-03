@@ -1,5 +1,4 @@
-import 'package:OpenBubi/openbubi.dart' as openbubi;
-import 'dart:convert';
+import 'package:openbubi/openbubi.dart' as openbubi;
 
 Future<void> main(List<String> arguments) async {
   // itt BubiUser típussal is létrehozhattam volna ezt az instance-et
